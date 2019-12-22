@@ -35,8 +35,8 @@ read DOSETUP
 fi
 
 echo ""
-wget https://github.com/NewCapital/FIX-Core/releases/download/fix_v3.2.3.0/fix-3.2.3.0-MN-x86_64-linux-gnu.tar.gz
-tar -xvzf fix-3.2.3.0-MN-x86_64-linux-gnu.tar.gz
+wget https://github.com/NewCapital/FIX-Core/releases/download/fix_v3.3.4.0/fix-3.3.4.0-MN-x86_64-linux-gnu.tar.gz
+tar -xvzf fix-3.3.4.0-MN-x86_64-linux-gnu.tar.gz
 echo ""
 echo "Configure your masternodes now!"
 echo "Your recognised IP address is:"
